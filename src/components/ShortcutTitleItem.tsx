@@ -6,7 +6,7 @@ import {
   HeaderStyle,
   SortButtonStyle,
   CurrentHeaderStyle
-} from './ShortcutTitleItemStyle';
+} from '../componentStyle/ShortcutTitleItemStyle';
 
 export interface IShortcutTitleItemProps {
   title: string;
